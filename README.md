@@ -5,6 +5,40 @@
 ## 💡 Introdruon
 - The Riyadh real estate market is active and changing quickly. This project aims to offer useful insights on market trends, home prices, and other significant variables that affect Riyadh's real estate market. We want to identify significant patterns and connections in the data using Python's data analysis tools and Plotly's interactive visualization features.
 
+
+## ℹ Dataset Overview and Source
+- URL link : https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar
+- About : This dataset contains over 50k villas located in Riyadh, Saudi Arabia. Each villa contains information such as the location, neighborhood, number of bedrooms, number of bathrooms, the space of the villa, and many more!
+  
+| Column Name   | Definition                                                                               |
+|---------------|------------------------------------------------------------------------------------------|
+| front         | The direction of the property's front that faces the street.                            |
+| rooms         | Total number of bedrooms or living spaces in the property.                               |
+| lounges       | Number of  lounges within the property.                                                   |
+| bathrooms     | Total number of bathrooms in the property.                                               |
+| streetWidth   | Width of the street where the property is located.                                      |
+| stairs        | Presence and type of staircases in the property.                                         |
+| driverRoom    | Whether the property has a separate room for drivers.                                   |
+| SunLightRoom  | Presence of a room with ample sunlight in the property.                                 |
+| kitchen       | Total number of kitchens in the property.                                                |
+| outdoorRoom   | Outdoor or open-air living spaces attached to the property.                              |
+| garage        | Availability of a garage for parking vehicles.                                           |
+| duplex        | Whether the property is designed as a two-unit duplex.                                   |
+| Area          | Total area or size of the property in square units.                                      |
+| apartments    | Number of individual apartments or units in the property.                                |
+| StaffRoom     | Whether there's a dedicated room for staff or workers.                                   |
+| elevator      | Presence of an elevator in the property.                                                 |
+| furnished     | Whether the property comes fully furnished.                                              |
+| pool          | Whether there's a swimming pool on the property.                                         |
+| basement      | Availability of a basement or cellar space.                                              |
+| neighbourhood | Description of the surrounding area where the property is.                               |
+| location      | More specific details about the property's address.                                     |
+| price         | Listed price or cost to buy or rent the property.                                        |
+| square_price  | Price per square unit of the property, useful for comparison.                             |
+
+
+
+
 ## 🧹 Data Cleaning & Preprocessing 
 1. **Drop Unnamed Column:**
    - Remove the unnamed column from the DataFrame.
