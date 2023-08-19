@@ -61,8 +61,8 @@ x
 | 6 | Only real estate in the northern part of Riyadh has prices higher than 30 million. |
 | 7 | The price tends to increase with more area. |
 | 8 | The highest price recorded was 100 million, while the lowest price was 50 thousand. |
-| 9 | The best-chosen region for buying a house based on the map on the dashboard is the center of Riyadh. have The highest area available at a cheap price | 
-| 10| The south reigon on Riyadh have the lowest Area of Houses |
+| 9 | The best-chosen region for buying a house based on the map on the dashboard is the center of Riyadh. have The highest area available at a cheap price. | 
+| 10| The south region of Riyadh has the lowest area of houses. |
 
 
 ### Team Responsibilities 
